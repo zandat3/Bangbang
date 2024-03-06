@@ -1,11 +1,11 @@
-//base by Malibu
+//base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @non
-//Instagram: _m.a.l.i.b.u__
-//Telegram: https://t.me/theetechpalace
-//GitHub: @owlai01
-//WhatsApp: +254712703241
-//want more free bot scripts? subscribe to my telegram  channel: https://t.me/+cBmC5dzy78Y2YzA0
+//YouTube: @DGXeon
+//Instagram: unicorn_xeon13
+//Telegram: t.me/xeonbotinc
+//GitHub: @DGXeon
+//WhatsApp: +916909137213
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const {
    spawn

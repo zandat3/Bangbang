@@ -2,10 +2,10 @@
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @non
 //Instagram: _m.a.l.i.b.u__
-//Telegram: https://t.me/theetechpalace
+//Telegram: t.me/theetechpalace
 //GitHub: @owlai01
 //WhatsApp: +254712703241
-//want more free bot scripts? subscribe to my telegram  channel: https://t.me/+cBmC5dzy78Y2YzA0
+//want more free bot scripts? subscribe to my telegram channel: https://t.me/+cBmC5dzy78Y2YzA0
 
 require('./lib/listmenu')
 const {
