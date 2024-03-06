@@ -1,11 +1,11 @@
-//base by DGXeon
+//base by Malibu
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @non
+//Instagram: _m.a.l.i.b.u__
+//Telegram: t.me/theetechpalace
+//GitHub: @owlai01
+//WhatsApp: +254712703241
+//want more free bot scripts? subscribe to my telegram channel: https://t.me/+cBmC5dzy78Y2YzA0
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: _m.a.l.l.i.b.u__" //ur yt chanel name
+global.socialm = "GitHub: owlai01" //ur github or insta name
+global.location = "Kenya, Nairobi, Umoja" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.botname = 'BangBang Bot MD V11' //ur bot name
+global.ownernumber = '254712703241' //ur owner number
+global.ownername = '𝐌𝐀𝐋𝐈𝐁𝐔' //ur owner name
+global.websitex = "https://t.me/+cBmC5dzy78Y2YzA0"
+global.wagc = "https://chat.whatsapp.com/H3T9SI97DnOIgXc4VkuXSz"
+global.themeemoji = '😂'
+global.wm = "BangBang Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "𝐌𝐀𝐋𝐈𝐁𝐔\n\n+254712703241"
+global.creator = "254712703241@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["254712703241"] // Premium User
 global.hituet = 0
 
 //bot sett
