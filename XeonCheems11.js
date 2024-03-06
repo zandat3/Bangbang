@@ -2980,7 +2980,7 @@ break
                 break
 case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
 let me = m.sender
-let teks = `*「  ${global.botname} Script 」*\n\nTelegram: ${global.websitex}\nGitHub: ${global.botscript}\n\nHi @${me.split('@')[0]} 👋\nDont forget to donate yeah🍜 👇 https://i.ibb.co/y6XmZ2b/donate.png`
+let teks = `*「  ${global.botname} Script 」*\n\nTelegram: ${global.websitex}\nGitHub: ${global.botscript}\n\nHi @${me.split('@')[0]} 👋\nDont forget to donate yeah🍜 👇 wa.me/254712703241`
 sendXeonBotIncMessage(from, { 
 text: teks,
 mentions:[sender],
